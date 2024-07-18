@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrun196&layout=compact&theme=dracula)](https://github.com/lucasbrun196/github-readme-stats)
-
 ##
 
 <div> 
