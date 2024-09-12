@@ -6,3 +6,5 @@
   <a href="https://www.linkedin.com/in/lucas-brun-52aab3274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<h3>C++, Flutter, Aws Services, Terraform, NodeJs, Typescript, Python...<h3>
