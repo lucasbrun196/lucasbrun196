@@ -7,4 +7,4 @@
   
 </div>
 
-<h3>C++, Flutter, Aws Services, Terraform, NodeJs, Typescript, Python...<h3>
+<h3>C/C++, Flutter mobile/web, Aws Services, Terraform, NodeJs, Typescript, Python...<h3>
